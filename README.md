@@ -5,7 +5,7 @@
 # مطالعه‌ی آنلاین
 
 برای مطالعه‌ی آنلاین در فرمت وب از لینک زیر استفاده کنید:
-<https://tayyebi.github.io/BASU-Final-Project-BSc>
+<https://tayyebi.github.io/BASU-Final-Project-BSc/>
 
 # پروژه‌ی SF
 
